@@ -89,7 +89,7 @@ Session login dihapus dan pengguna kembali ke halaman login.
 3. Buka browser dan masuk ke:
 
 ```
-http://localhost/nama_folder_kamu/login.php
+http://localhost/TugasAkhir4/login.php
 ```
 
 4. Login menggunakan:
